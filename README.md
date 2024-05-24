@@ -15,8 +15,6 @@
 -->
 
 
-<p align="center"> <img width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="BrightonAnthony" /> </p>
-
 ### 🔥Streaks
 <p align="center">
 <a href="https://github.com/BrightonAnthony/github-readme-streak-stats">
@@ -31,6 +29,7 @@
     <a href="https://github.com/BrightonAnthony/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BrightonAnthony&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/BrightonAnthony/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightonAnthony&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   </p>
+<p align="center"> <img width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="BrightonAnthony" /> </p>
 
 <img align="right" height="270" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 
