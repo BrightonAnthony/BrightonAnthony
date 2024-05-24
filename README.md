@@ -1,6 +1,6 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<h2 align="left">Hi 👋! My name is Anthony Brighton and I'm a Artificial Intelligence Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Anthony Brighton and I'm an Artificial Intelligence Developer, from India</h2>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@
 <img height="100vw" width='200px' src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1060" alt="Banner Image">
 -->
 
-###
+
 <p align="center"> <img width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="BrightonAnthony" /> </p>
 
 ### 🔥Streaks
