@@ -14,6 +14,7 @@
 <img height="100vw" width='200px' src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1060" alt="Banner Image">
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrightonAnthony&label=Profile%20views&color=0e75b6&style=flat" alt="BrightonAnthony" /> </p>
 
 ### 🔥Streaks
 <p align="center">
