@@ -34,7 +34,7 @@
 
 <img align="right" height="270" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 
-### <h3 align="left">Languages and Tools:</h3>
+### <h3 align="left">🔭 Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
